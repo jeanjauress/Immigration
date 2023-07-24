@@ -1,7 +1,5 @@
 # Analyse de la Migration au Canada (1980-2013)
 
-![Migration au Canada](https://raw.githubusercontent.com/votre_utilisateur/migration_canada/main/images/migration.jpg)
-
 ## Description
 
 Le projet d'analyse de la migration au Canada de 1980 à 2013 vise à étudier les tendances de l'immigration et de l'émigration au Canada au cours de cette période. Les données utilisées pour cette analyse proviennent du jeu de données disponible sur Kaggle. L'objectif est de comprendre les motifs de migration, les pays d'origine et de destination, ainsi que les changements dans les flux migratoires au fil des années. L'analyse a été réalisée à l'aide de Power BI, une plateforme d'analyse de données interactive.
